@@ -1,7 +1,9 @@
 # COVID Data Analysis Project SQL
 Overview
+
 This GitHub repository contains code and data for analyzing COVID-19 vaccination and death data. The project utilizes two Excel files, namely coviddeaths.xlsx and covidvaccinations.xlsx, to explore data related to the locations that have been vaccinated, new vaccinations, vaccination rates by continents, and the dates with the highest number of vaccinated people.
 Introduction
+
 The COVID-19 pandemic has had a profound impact on the world, and vaccination efforts have played a crucial role in combating the virus. This project aims to analyze COVID-19 vaccination and death data to gain insights into the following aspects:
 -Total Cases vs Total Deaths and deathpercentage
 -Total Cases vs population
