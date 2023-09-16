@@ -17,8 +17,11 @@ The COVID-19 pandemic has had a profound impact on the world, affecting both pub
 ## Data Files
 
 The project uses the following data files:
+
 coviddeaths.xlsx: Contains data related to COVID-19 deaths by location and date.
+
 covidvaccinations.xlsx: Contains data related to COVID-19 vaccinations by location, date, and continent.
+
 Table 1,Table 2,Table 3,Table 4.xlsx: Contains data for power bi visuals
 
 Please ensure that these data files are placed in the appropriate directories within this repository before running the analysis.
