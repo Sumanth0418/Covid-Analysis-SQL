@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Project SQL
+# COVID-19 Data Analysis Project SQL and power bi
 
 ## Overview
 
