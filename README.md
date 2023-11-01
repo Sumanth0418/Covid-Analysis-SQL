@@ -68,3 +68,5 @@ The code for this analysis can be found in the files.
 By contributing to this project, you are helping to better understand the COVID-19 pandemic and its impact on different regions and populations, which can contribute to informed decision-making and public health efforts.
 
 Happy analyzing!
+![Uploading image.png…]()
+
